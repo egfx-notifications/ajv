@@ -32,9 +32,6 @@ node_modules
 # Browserified tests
 .browser
 
-# compiled typescript
-dist/
-
 # browser bundles
 bundle/
 
